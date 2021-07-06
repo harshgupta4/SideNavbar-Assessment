@@ -72,7 +72,7 @@ body {
 }
 
 .container .input-container input {
-  width: 1000px;
+  width: 100%;
   border: 1px solid wheat;
   margin: 20px;
   padding: 15px;
